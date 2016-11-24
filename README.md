@@ -1,2 +1,3 @@
 # hello-world
 First attempt, just learning 
+This is a junior learner.... 
